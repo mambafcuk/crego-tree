@@ -31,15 +31,14 @@ Users can add/delete **Account**, **Loan**, and **Collateral** nodes; the layout
 
 ## 📦 Installation
 
-1. Clone the repo  
+Clone the repo  
    ```bash
    git clone https://github.com/mambafcuk/crego-tree-visualizer.git
    cd crego-tree-visualizer
    npm install
+```
 Start the dev server
-
 ```bash
-
 npm run dev
 ```
 Open your browser at http://localhost:5173
