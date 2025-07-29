@@ -1,6 +1,6 @@
 # Crego Tree Visualizer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  [![Vite](https://img.shields.io/badge/bundler-Vite-brightgreen)](https://vitejs.dev/)  [![React Flow](https://img.shields.io/badge/diagram-React%20Flow-blueviolet)](https://reactflow.dev/)
+ [![Vite](https://img.shields.io/badge/bundler-Vite-brightgreen)](https://vitejs.dev/)  [![React Flow](https://img.shields.io/badge/diagram-React%20Flow-blueviolet)](https://reactflow.dev/)
 
 A Vite‑powered React application for visualizing hierarchical loan‑management entities in an auto‑layout tree.  
 Users can add/delete **Account**, **Loan**, and **Collateral** nodes; the layout recalculates via Dagre. State is managed with Zustand and styling via Tailwind CSS.
